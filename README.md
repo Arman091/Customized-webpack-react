@@ -16,3 +16,6 @@ that is around 250mb or more.this is whole webpack for developement in just 50mb
 well you can add as per your requirements later on it is with just basic setups,you can install any new dependency using
 * command npm i **dependency-name** --save -dev
 * and making appropriate configuration in webpack.config.js
+## To develop a new project 
+well! start with cloning this folder to your syestem and without any other configuration
+you can start your developement,by making new components and rendering them in **src/App.js** folder.
